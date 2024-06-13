@@ -112,7 +112,7 @@
                     <h2>Contact</h2>
                     <p>If you have any questions, feel free to reach out to me:</p>
                     <address>
-                        <strong>Email:</strong> <a href="mailto:your-email@example.com">your-tmthanufdo@gmail.com</a><br>
+                        <strong>Email:</strong> <a href="mailto:your-email@example.com">tmthanufdo@gmail.com</a><br>
                         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thanuja-fernando" target="_blank">Thanuja Fernando</a>
                     </address>
                 </section>
