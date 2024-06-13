@@ -33,7 +33,7 @@
             color: white;
         }
         .about-bg {
-            background: url('your-about-background-url.jpg') no-repeat center center;
+            background: url('Thanu2.jpg') no-repeat center center;
             background-size: cover;
             color: white;
         }
@@ -78,7 +78,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 text-center">
-                <img src="your-photo-url.jpg" alt="Thanuja Fernando" class="profile-pic">
+                <img src="Thanu3.jpg" alt="Thanuja Fernando" class="profile-pic">
             </div>
             <div class="col-lg-8">
                 <section id="about" class="about-bg p-3">
@@ -95,7 +95,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12 text-center">
-                <img src="bioinformatics-image-url.jpg" alt="Bioinformatics" class="custom-img">
+                <img src="Thanu4" alt="Bioinformatics" class="custom-img">
             </div>
         </div>
         <div class="row">
