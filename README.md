@@ -28,7 +28,7 @@
             margin-bottom: 20px;
         }
         .header-bg {
-            background: url('your-background-url.jpg') no-repeat center center;
+            background: url('Maldives.jpg') no-repeat center center;
             background-size: cover;
             color: white;
         }
