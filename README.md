@@ -7,12 +7,16 @@
     <style>
         body {
             padding-top: 56px;
+            background: url('bkg2.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
         }
         .bg-primary {
             background-color: #007bff !important;
         }
         .footer {
             background-color: #f8f9fa;
+            color: black;
             padding: 20px 0;
         }
         .profile-pic {
@@ -33,9 +37,9 @@
             color: white;
         }
         .about-bg {
-            background: url('Thanu2.jpg') no-repeat center center;
-            background-size: cover;
-            color: white;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
         }
     </style>
 </head>
@@ -76,12 +80,9 @@
 
     <!-- Main Content -->
     <div class="container">
-        <div class="row">
-            <div class="col-lg-4 text-center">
-                <img src="Thanu3.jpg" alt="Thanuja Fernando" class="profile-pic">
-            </div>
+        <div class="row justify-content-center">
             <div class="col-lg-8">
-                <section id="about" class="about-bg p-3">
+                <section id="about" class="about-bg">
                     <h2>About Me</h2>
                     <p>🔬Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur👩‍🍳</p>
                     <p>👩🏻‍🎓First-class Bioinformatics graduate from the University of Colombo, Sri Lanka with experience as a Teaching Assistant in the Department of Plant Sciences and as a Graduate Research Assistant at IBMBB. Currently, pursuing a Ph.D. in Bioinformatics at the University of Guelph, Canada, where I've excelled as a TA and GRA in the prestigious Adamowicz lab.</p>
@@ -91,11 +92,6 @@
                     <p>🌐 Active member of SSE Global, contributing to the advancement of evolutionary studies from 2021 to 2024.</p>
                     <p>Let's connect and explore opportunities in bioinformatics, research collaborations, education, or creative ventures!</p>
                 </section>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <img src="Thanu4" alt="Bioinformatics" class="custom-img">
             </div>
         </div>
         <div class="row">
@@ -116,7 +112,7 @@
                     <h2>Contact</h2>
                     <p>If you have any questions, feel free to reach out to me:</p>
                     <address>
-                        <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a><br>
+                        <strong>Email:</strong> <a href="mailto:your-email@example.com">your-tmthanufdo@gmail.com</a><br>
                         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thanuja-fernando" target="_blank">Thanuja Fernando</a>
                     </address>
                 </section>
