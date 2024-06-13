@@ -27,6 +27,16 @@
             height: auto;
             margin-bottom: 20px;
         }
+        .header-bg {
+            background: url('your-background-url.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+        }
+        .about-bg {
+            background: url('your-about-background-url.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -57,7 +67,7 @@
     </nav>
 
     <!-- Header -->
-    <header class="bg-primary text-white text-center py-5 mb-4">
+    <header class="header-bg text-white text-center py-5 mb-4">
         <div class="container">
             <h1>Welcome to My Website</h1>
             <p class="lead">Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur</p>
@@ -71,7 +81,7 @@
                 <img src="your-photo-url.jpg" alt="Thanuja Fernando" class="profile-pic">
             </div>
             <div class="col-lg-8">
-                <section id="about">
+                <section id="about" class="about-bg p-3">
                     <h2>About Me</h2>
                     <p>🔬Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur👩‍🍳</p>
                     <p>👩🏻‍🎓First-class Bioinformatics graduate from the University of Colombo, Sri Lanka with experience as a Teaching Assistant in the Department of Plant Sciences and as a Graduate Research Assistant at IBMBB. Currently, pursuing a Ph.D. in Bioinformatics at the University of Guelph, Canada, where I've excelled as a TA and GRA in the prestigious Adamowicz lab.</p>
