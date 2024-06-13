@@ -9,14 +9,14 @@
             padding-top: 56px;
             background: url('bkg1.jpg') no-repeat center center fixed;
             background-size: cover;
-            color: white;
+            color: #333; /* Adjust text color for better readability */
         }
         .bg-primary {
-            background-color: #007bff !important;
+            background-color: rgba(0, 123, 255, 0.8) !important; /* Adjust background color transparency */
         }
         .footer {
             background-color: #f8f9fa;
-            color: black;
+            color: #333; /* Adjust text color for better readability */
             padding: 20px 0;
         }
         .profile-pic {
@@ -25,21 +25,21 @@
             object-fit: cover;
             border-radius: 50%;
             margin-bottom: 20px;
-        }
-        .custom-img {
-            width: 100%;
-            height: auto;
-            margin-bottom: 20px;
+            background: url('Thanu3.jpg') center center no-repeat;
+            background-size: cover;
         }
         .header-bg {
             background: url('Maldives.jpg') no-repeat center center;
             background-size: cover;
-            color: white;
+            color: #333; /* Adjust text color for better readability */
+            padding: 100px 0; /* Adjust padding as needed */
         }
         .about-bg {
-            background: rgba(0, 0, 0, 0.7);
+            background: rgba(0, 0, 0, 0.7); /* Adjust background color transparency */
             padding: 20px;
             border-radius: 10px;
+            text-align: center;
+            color: #fff; /* Adjust text color for better readability */
         }
     </style>
 </head>
@@ -71,8 +71,9 @@
     </nav>
 
     <!-- Header -->
-    <header class="header-bg text-white text-center py-5 mb-4">
+    <header class="header-bg text-white text-center mb-5">
         <div class="container">
+            <div class="profile-pic mx-auto mb-4"></div>
             <h1>Welcome to My Website</h1>
             <p class="lead">Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur</p>
         </div>
@@ -102,7 +103,7 @@
                     <ul>
                         <li>Bioinformatics research and analysis</li>
                         <li>Educational content creation</li>
-                        <li>Entrepreneurial consultancy</li>
+                        <li>Customized cakes from Glory Bakes</li>
                         <li>YouTube content on bioinformatics and education</li>
                     </ul>
                 </section>
@@ -112,7 +113,7 @@
                     <h2>Contact</h2>
                     <p>If you have any questions, feel free to reach out to me:</p>
                     <address>
-                        <strong>Email:</strong> <a href="mailto:your-email@example.com">tmthanufdo@gmail.com</a><br>
+                        <strong>Email:</strong> <a href="mailto:tmthanufdo@gmail.com">tmthanufdo@gmail.com</a><br>
                         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thanuja-fernando" target="_blank">Thanuja Fernando</a>
                     </address>
                 </section>
