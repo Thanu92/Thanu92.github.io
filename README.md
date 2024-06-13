@@ -7,7 +7,7 @@
     <style>
         body {
             padding-top: 56px;
-            background: url('bkg2.jpg') no-repeat center center fixed;
+            background: url('bkg1.jpg') no-repeat center center fixed;
             background-size: cover;
             color: white;
         }
