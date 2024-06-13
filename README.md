@@ -7,7 +7,8 @@
     <style>
         body {
             padding-top: 56px;
-            background: linear-gradient(to right, #b38cb4, #f7a6a3); /* Gradient background with purplish and pinkish tones */
+            background: url('bkg1.jpg') no-repeat center center fixed;
+            background-size: cover;
             color: #333; /* Adjust text color for better readability */
         }
         .bg-primary {
@@ -28,16 +29,16 @@
             background-size: cover;
         }
         .header-bg {
-            background: linear-gradient(to right, #b38cb4, #f7a6a3); /* Gradient background for the header */
+            background: rgba(0, 0, 0, 0.7); /* Use the same background style as .about-bg */
             color: #fff; /* Adjust text color for better readability */
             padding: 100px 0; /* Adjust padding as needed */
         }
         .about-bg {
-            background: rgba(255, 255, 255, 0.9); /* Adjust background color transparency */
+            background: rgba(0, 0, 0, 0.7); /* Keep this as-is for other sections */
             padding: 20px;
             border-radius: 10px;
             text-align: center;
-            color: #333; /* Adjust text color for better readability */
+            color: #fff; /* Adjust text color for better readability */
         }
     </style>
 </head>
@@ -71,6 +72,7 @@
     <!-- Header -->
     <header class="header-bg text-white text-center mb-5">
         <div class="container">
+            <div class="profile-pic mx-auto mb-4"></div>
             <h1>Welcome to My Website</h1>
             <p class="lead">Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur</p>
         </div>
