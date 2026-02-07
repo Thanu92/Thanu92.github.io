@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thanuja Fernando's Website</title>
+    <title>Thanuja Fernando, PhD</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
@@ -84,8 +84,8 @@
             <div class="col-lg-8">
                 <section id="about" class="about-bg">
                     <h2>About Me</h2>
-                    <p>🔬Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur👩‍🍳</p>
-                    <p>👩🏻‍🎓First-class Bioinformatics graduate from the University of Colombo, Sri Lanka with experience as a Teaching Assistant in the Department of Plant Sciences and as a Graduate Research Assistant at IBMBB. Currently, pursuing a Ph.D. in Bioinformatics at the University of Guelph, Canada, where I've excelled as a TA and GRA in the prestigious Adamowicz lab.</p>
+                    <p>🔬Bioinformatics Expert | Postdoctoral researcher at Center for Biodiversity Genomics, Canada| Sessional lecturer, University of Guelph, Canada| YouTuber | Entrepreneur👩‍🍳</p>
+                    <p>👩🏻‍🎓PhD in Bioinformatics, University of Guelph, Canada, First-class Bioinformatics graduate from the University of Colombo, Sri Lanka with experience as a Teaching Assistant in the Department of Plant Sciences and as a Graduate Research Assistant at IBMBB.</p>
                     <p>👩‍🏫 Passionate about education, I've mentored at Virtual Evolution 2021 and served as a student representative for the Bioinformatics Steering Committee at the University of Guelph (Sep. 2022- April 2024). My research interests span DNA barcoding, R programming, Genome analysis, Phylogenetics, and Statistical analysis, with expertise in Phylogenetic Placement tools and Genomics.</p>
                     <p>🎥 As a YouTuber, I share educational insights, travel adventures, and lifestyle content, leveraging my unique perspective and experiences.</p>
                     <p>💼 Entrepreneurial spirit drives me to run my own company, Glory Bakes, specializing in customized cake designing, blending creativity with culinary artistry.</p>
@@ -113,7 +113,7 @@
                     <p>If you have any questions, feel free to reach out to me:</p>
                     <address>
                         <strong>Email:</strong> <a href="mailto:tmthanufdo@gmail.com">tmthanufdo@gmail.com</a><br>
-                        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thanuja-fernando" target="_blank">Thanuja Fernando</a>
+                        <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/ thanuja-fernando-ph-d-928a10162" target="_blank">Thanuja Fernando</a>
                     </address>
                 </section>
             </div>
