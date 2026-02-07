@@ -73,8 +73,7 @@
     <header class="header-bg text-white text-center mb-5">
         <div class="container">
             <div class="profile-pic mx-auto mb-4"></div>
-            <h1>Welcome to My Website</h1>
-            <p class="lead">Bioinformatics Expert | PhD Candidate | Researcher | Educator | YouTuber | Entrepreneur</p>
+            <p class="lead">Bioinformatician | Postdoctoral Researcher| Sessional Lecturer | YouTuber | Entrepreneur</p>
         </div>
     </header>
 
@@ -113,7 +112,7 @@
                     <p>If you have any questions, feel free to reach out to me:</p>
                     <address>
                         <strong>Email:</strong> <a href="mailto:tmthanufdo@gmail.com">tmthanufdo@gmail.com</a><br>
-                        <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/ thanuja-fernando-ph-d-928a10162" target="_blank">Thanuja Fernando</a>
+                        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ thanuja-fernando-ph-d-928a10162" target="_blank">Thanuja Fernando</a>
                     </address>
                 </section>
             </div>
@@ -123,7 +122,7 @@
     <!-- Footer -->
     <footer class="footer text-center">
         <div class="container">
-            <p class="m-0">© 2024 Thanuja Fernando</p>
+            <p class="m-0">© 2026 Thanuja Fernando</p>
         </div>
     </footer>
 
